@@ -1,2 +1,7 @@
 This is some text
+<<<<<<< HEAD
 // new feature built on master to hack parliament 
+=======
+testing rebase now
+// new feature built to hack pentagon 
+>>>>>>> rk_branch
